@@ -15,4 +15,3 @@ def valid_move?(board, position)
 		false
 	end
 end
-
